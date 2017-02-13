@@ -1,0 +1,23 @@
+{
+  "name": "ddp-client",
+  "main": "dist/ddp-client.js",
+  "version": "3.0.0-alpha.2",
+  "homepage": "https://github.com/seeekr/ddp-client",
+  "authors": [
+    "Denis Andrejew <da.colonel@gmail.com>"
+  ],
+  "description": "A modern JS client for Meteor's DDP.",
+  "keywords": [
+    "meteor",
+    "ddp",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
